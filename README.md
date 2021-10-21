@@ -22,3 +22,10 @@ npm install
 node app.js
 ```
 4. Go to localhost:3000 and enjoy the visualization
+
+### To modify the app :
+All the d3JS code is in `public/javascripts/code.js`
+
+D3JS content must be added in `#viz` div (located in `views/index.js`)
+
+If you are using a local dataset, add it in `public/data/` and refer to it in `code.js` as `/data/MYDATA.CSV`
