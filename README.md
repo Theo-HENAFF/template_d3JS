@@ -1,11 +1,3 @@
-## Introduction
-
-A small data visualization about mass shootings in the US. 
-
-Made with d3 js on a nodejs server (express).
-
-The live link http://rosacorp.net
-
 ## How to use it
 
 ### Prerequisite :
